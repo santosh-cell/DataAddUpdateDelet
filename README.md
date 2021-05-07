@@ -1,27 +1,7 @@
-# DataAddUpdateDelet
+![list](https://user-images.githubusercontent.com/67911302/117400526-7ca5ff80-af20-11eb-954a-67af22958177.PNG)
+![addbycomponent](https://user-images.githubusercontent.com/67911302/117400576-96474700-af20-11eb-80fc-1caf0f0b741c.PNG)
+![AfterDelet](https://user-images.githubusercontent.com/67911302/117400596-9e06eb80-af20-11eb-85c0-98cd763e810e.PNG)
+![deletbypost](https://user-images.githubusercontent.com/67911302/117400640-afe88e80-af20-11eb-9fe8-45052c7cdf8a.PNG)
+![updatebycomponent](https://user-images.githubusercontent.com/67911302/117400667-c0990480-af20-11eb-8b43-f3e21fb4eab7.PNG)
+![json](https://user-images.githubusercontent.com/67911302/117400676-c5f64f00-af20-11eb-9923-d71584e4f4d6.PNG)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
